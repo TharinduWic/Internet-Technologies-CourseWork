@@ -1,0 +1,123 @@
+body {
+    background-color: #8a4e09;
+    text-align: center;
+}
+#nav-bar {
+    background-color: black;
+}
+.nav-bar-row {
+    font-size: 25px;
+}
+.nav-bar-item {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: aliceblue;
+    font-weight: bold;
+    
+}
+#left-column {
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+#right-column {
+    margin-left: 55px;
+    background-color: rgb(140, 143, 146);
+    border-radius: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.item-bar {
+    height: 620px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    overflow: scroll ;
+}
+.item-margin {
+    margin-top: 20px;
+}
+.item-category {
+    color: black;
+    font-weight: bold;
+    background-color: #AC8557;
+    width: 140px;
+}
+.margin-top {
+    margin-top: 20px;
+}
+.img-size {
+    height: 100px;
+    width: 155px;
+    
+}
+p {
+    font-size: 12px;
+    font-weight: bold;
+}
+.img-details {
+    width: 155px;
+    background-color: rgb(211, 209, 203);
+}
+.add-cart {
+    background-color: rgb(56, 53, 56);
+    color: rgb(26, 198, 32);
+    font-size: 15px;
+    border-radius: 10px;
+    width: 100px;
+}
+.cart-title {
+    text-decoration: underline;
+    font-weight: bold;
+    color: rgb(107, 11, 11);
+    margin-bottom: 10px;
+}
+.cart-item {
+    height: 400px;
+    margin-top: 5px;
+    overflow: scroll;
+    text-align: justify;
+}
+.cart-total {
+    text-align: right;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+#cart-btn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+a:hover {
+    color: #AC8557;
+}
+.item-bar input:hover {
+    color: rgb(255, 255, 255);
+}
+.img-details input:hover {
+    color: red;
+}
+h2 {
+    text-decoration: underline;
+    font-weight: bold;
+}
+/* 
+#submarine{
+    display: none;
+}
+#fries{
+    display: none;
+}
+#pasta{
+    display: none;
+}
+#chicken{
+    display: none;
+}
+#beverage{
+    display: none;
+} */
+.add-item {
+    font-size: large;
+}
